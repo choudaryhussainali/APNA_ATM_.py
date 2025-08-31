@@ -120,4 +120,4 @@ This project is licensed under the **MIT License** – feel free to use and modi
 **Choudary Hussain Ali**
 
 * 💼  Python Developer
-* 🌐 [LinkedIn](https://www.linkedin.com/ch-hussain-ali) | [GitHub](https://github.com/choudaryhussainali) | [Email](mailto:choudaryhussainali@outlook.com)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/ch-hussain-ali) | [GitHub](https://github.com/choudaryhussainali) | [Email](mailto:choudaryhussainali@outlook.com)
