@@ -2,6 +2,8 @@
 
 A simple **Python-based ATM Simulation Program** that allows users to perform basic banking operations like **Deposit, Withdraw, and Account Balance Inquiry** through an interactive, menu-driven interface.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://banking-management.streamlit.app)
+
 ---
 
 ## 🚀 Features
